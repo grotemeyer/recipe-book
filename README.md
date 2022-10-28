@@ -1,6 +1,6 @@
 # Recipe Book
 
-## Components
+## Concept
 
 ### Recipe Book
 
