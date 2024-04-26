@@ -23,6 +23,3 @@ If you select a recipe, you can see which ingredients you are missing to make th
 ### Auto update
 
 Your ingredients will automatically be updated if you cook a recipe. It will remove the ingredients you used to make the recipe.
-
-### Import recipes
-You can import recipes from supported sources. Currently only [Allrecipes](https://www.allrecipes.com/) is supported.
