@@ -1,0 +1,26 @@
+{
+  "ingredients": [
+    "2 cups all purpose flour",
+    "2 tbsp sugar",
+    "4 tsp baking powder",
+    "1/2 tsp salt",
+    "2 eggs",
+    "1 1/2 cups milk",
+    "6 tbsp butter, melted (see notes if using salted butter)",
+    "1 tsp vanilla extract"
+  ],
+  "steps": [
+    "Preheat waffle iron.",
+    "In a large bowl combine the flour, sugar, baking powder and salt and whisk to combine.",
+    "Warm the milk up in the microwave for just 1 minute, or heat until slightly warm on the stove top.",
+    "In a separate small bowl whisk the eggs and stir in the warm milk, melted butter and vanilla extract. Pour the wet ingredients into the dry and whisk until blended.",
+    "Scoop the batter into the preheated waffle iron and cook until the waffles are golden brown and crisp. Serve immediately or lay on a cooling rack until cool. Store in zip close bags in freezer.*"
+  ],
+  "step-ingredients": [
+    [],
+    [0,1,2,3],
+    [5],
+    [4, 5, 6, 7],
+    []
+  ]
+}
